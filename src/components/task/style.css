@@ -1,0 +1,28 @@
+.task {
+    padding: 10px;
+    border-bottom: 2px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+}
+.task .task2 {
+    
+    display: flex;
+    
+}
+
+.task .colorgreen {
+    color: green;
+}
+
+.task .task2 .icon {
+    color: black;
+}
+
+.task .task2 .iconGreen {
+    color: green;
+    padding-right: 20px;
+    
+}
